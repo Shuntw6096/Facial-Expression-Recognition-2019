@@ -61,13 +61,10 @@ Total Parameters：5,905,863
 
 模型表現
 ------
-<center class="half">
-    <img src="https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pu.JPG" />
-    <img src="https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pr.JPG" />
-</center>
+![pu](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pu.JPG) ![pr](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pr.JPG)
 
 實際應用
 ------
-![](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/single4.png) ![](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/pair2.png)
+![single4](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/single4.png) ![pair2](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/pair2.png)
 
-![](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/triple4.png) ![](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/group.png)
+![triple4](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/triple4.png) ![group](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/group.png)
