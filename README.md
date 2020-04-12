@@ -22,8 +22,8 @@
 CNN模型
 ------
 |Layer|Output Shape|Activate Function/Kernel Size/Stride|Drop Rate|
-|---|----|----|:---:|
-|Input|(48,48,1)|N.A.|	N.A.|
+|---|----|:----:|:---:|
+|Input|(48,48,1)|N.A.|N.A.|
 |2D-Convolution|(46,46,64)|Relu/(3,3)/(1,1)|N.A.|
 |2D-Convolution|(46,46,64)|Relu/(3,3)/(1,1)|N.A.|
 |Batch Normalization|(46,46,64)|N.A.|N.A.|
@@ -49,7 +49,22 @@ CNN模型
 |Fully-Connected|128|Relu|0.4|
 |Fully-Connected|7|Softmax|N.A.|
 
-Total Parameters：5,905,863  
+Total Parameters：5,905,863
+
+訓練過程
+------
+![training](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/training.JPG)
+
+特徵圖可視化
+------
+![feature](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/feature.JPG)
+
+模型表現
+------
+![pu](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pu.JPG)
+![pr](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pr.JPG)
+
+
 
 
 
