@@ -3,9 +3,9 @@
 
 資料集介紹
 ------
-    * 解析度為48×48的灰階圖片．  
-    * 預先劃分成一個訓練集與兩個測試集．  
-    * 總共7個類別，Angry、Disgust、Fear、Happiness、Sadness、Surprise、Neutral．  
+* 解析度為48×48的灰階圖片．  
+- 預先劃分成一個訓練集與兩個測試集．  
+* 總共7個類別，Angry、Disgust、Fear、Happiness、Sadness、Surprise、Neutral．  
 ![number of data in a predefined data set](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/number_ds.JPG)  
 
 資料預處理
