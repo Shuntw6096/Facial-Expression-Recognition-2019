@@ -12,12 +12,12 @@
 ------
 |#|說明|圖片|
 |---|----|:---:|
-|1|對訓練集做資料清洗，將不包含人臉的圖片過濾|![clean](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/clean.JPG)|
-|2|利用Dlib預先訓練好的人臉偵測器完成過濾．|![detector](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/detector.JPG)|
-|3|訓練集過濾後各類別的資料數量．|![after cleaning](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/after_cleaning.JPG)|
-|4|利用直方圖均衡化對圖片灰階完成歸一化．|![histogram equalization](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/hist_equali.JPG)|
-|5|透過將原本圖片放大至70 × 70的長寬尺寸，然後對齊圖片四個角落和中間位置剪裁出48 × 48的圖片大小．|![cropping](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/cropping.JPG)|
-|6|利用對圖片的小角度旋轉增強網路對人臉角度的適應性．|![rotation](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/rotation.JPG)|
+|1|對訓練集做資料清洗，將不包含人臉的圖片過濾|![clean](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/clean.JPG)|
+|2|利用Dlib預先訓練好的人臉偵測器完成過濾．|![detector](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/detector.JPG)|
+|3|訓練集過濾後各類別的資料數量．|![after cleaning](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/after_cleaning.JPG)|
+|4|利用直方圖均衡化對圖片灰階完成歸一化．|![histogram equalization](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/hist_equali.JPG)|
+|5|透過將原本圖片放大至70 × 70的長寬尺寸，然後對齊圖片四個角落和中間位置剪裁出48 × 48的圖片大小．|![cropping](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/cropping.JPG)|
+|6|利用對圖片的小角度旋轉增強網路對人臉角度的適應性．|![rotation](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/rotation.JPG)|
 
 CNN模型
 ------
@@ -53,18 +53,18 @@ Total Parameters：5,905,863
 
 訓練過程
 ------
-![training](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/training.JPG)
+![training](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/training.JPG)
 
 特徵圖可視化
 ------
-![feature](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/feature.JPG)
+![feature](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/feature.JPG)
 
 模型表現
 ------
-![pu](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pu.JPG) ![pr](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pr.JPG)
+![pu](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/confuse_mat_pu.JPG) ![pr](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/confuse_mat_pr.JPG)
 
 實際應用
 ------
-![single4](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/single4.png) ![pair2](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/pair2.png)
+![single4](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img_demo_output/single4.png) ![pair2](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img_demo_output/pair2.png)
 
-![triple4](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/triple4.png) ![group](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/group.png)
+![triple4](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img_demo_output/triple4.png) ![group](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img_demo_output/group.png)
