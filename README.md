@@ -73,9 +73,7 @@ Total Parameters：5,905,863
 <img src="https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/pair2.png" width="100" />
 </figure>
 <figure class="half">
-<img src="https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/triple4.png" width="100" />
-<img src="https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/group.png" width="100" />
-</figure>
+<img src="https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/triple4.png" width="100" /><img src="https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo_output/group.png" width="100" /></figure>
 
 
 
