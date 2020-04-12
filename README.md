@@ -22,7 +22,7 @@
 CNN模型
 ------
 |Layer|Output Shape|Activate Function/Kernel Size/Stride|Drop Rate|
-|---|----|:----:|:---:|
+|:---:|:----:|:----:|:---:|
 |Input|(48,48,1)|N.A.|N.A.|
 |2D-Convolution|(46,46,64)|Relu/(3,3)/(1,1)|N.A.|
 |2D-Convolution|(46,46,64)|Relu/(3,3)/(1,1)|N.A.|
@@ -61,8 +61,13 @@ Total Parameters：5,905,863
 
 模型表現
 ------
-![pu](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pu.JPG)
-![pr](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pr.JPG)
+|![pu](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pu.JPG)|![pr](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/confuse_mat_pr.JPG)|
+
+實際應用
+------
+|![single4](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo/single4.JPG)|![pair2](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo/pair2.JPG)|
+|![triple4](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo/triple4.JPG)|![group](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img_demo/group.JPG)|
+
 
 
 
