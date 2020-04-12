@@ -17,7 +17,7 @@
 訓練集過濾後各類別的資料數量．  
 ![after cleaning](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/after_cleaning.JPG)  
 利用直方圖均衡化對圖片灰階完成歸一化．  
-![histogram equlization](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/hist_equli.JPG)  
+![histogram equalization](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/hist_equali.JPG)  
 透過將原本圖片放大至70 × 70的長寬尺寸，然後對齊圖片四個角落和中間位置剪裁出48 × 48的圖片大小．  
 ![cropping](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/cropping.JPG)  
 利用對圖片的小角度旋轉增強網路對人臉角度的適應性．  
