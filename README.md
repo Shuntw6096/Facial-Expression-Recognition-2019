@@ -25,7 +25,7 @@ CNN模型
 |---|----|----|:---:|
 |Input|(48,48,1)|N.A.|	N.A.|
 |2D-Convolution|(46,46,64)|Relu/(3,3)/(1,1)|N.A.|
-|2D-Convolution	(46,46,64)|Relu/(3,3)/(1,1)|N.A.|
+|2D-Convolution|(46,46,64)|Relu/(3,3)/(1,1)|N.A.|
 |Batch Normalization|(46,46,64)|N.A.|N.A.|
 |Max pooling|(23,23,64)|N.A./(2,2)/(2,2)|N.A.|
 |2D-Convolution|(23,23,128)|Relu/(3,3)/(1,1)|N.A.|
