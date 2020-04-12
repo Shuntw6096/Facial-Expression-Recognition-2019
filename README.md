@@ -6,11 +6,11 @@
 ------
 ![number of data in a predefined data set](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/number_ds.JPG)  
 對訓練集做資料清洗，將不包含人臉的圖片過濾．  
-![clean](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/clean.JPG)  
-利用Dlib預先訓練好的人臉偵測器完成過濾．
-![detector](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/detector.JPG)  
+![clean](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/clean.JPG)  
+利用Dlib預先訓練好的人臉偵測器完成過濾．  
+![detector](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/detector.JPG)  
 訓練集過濾後各類別的資料數量．  
-![after cleaning](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/master/img/after_cleaning.JPG)  
+![after cleaning](https://github.com/Shuntw6096/Facial-Expression-Recognition-2019/blob/readme/img/after_cleaning.JPG)  
 
 
 
